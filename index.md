@@ -16,26 +16,28 @@ I am a girl who enjoy coding and enthusiastic to gather new knowledge with posit
 * Basic Data Science skills with Statistical and Machine Learning techniques with Python programming
 * Experience with Android Studio, Visual Studio Code
 
-### Interests
+### Interests / Hobbies
 
 * Advance Data Science, Data Analysis, Data Engineering
 * Machine Learning, Deep Learning, AI, Big Data
 * Coding
-* Japanese 
 * Photography
 * Coloring Therapy
+* RoV
 
 ### Experience / Internship
 * Internship at KCapstone program, KASIKORNBANK (2018)
-* Accomplished the Data Scientist track at DataCamp         (2018)
+* Paticipated in Class & Workshop: What Business needs to know about Data Science by Coraline (2018)
+* Accomplished the Data Scientist track at DataCamp (2018)
 * Participated in NSC20 (2018)
 * Internship at Digithun (2017)
+* Teaching Assistant for Java Programming Fundamentals (2017)
 * Participated in NSC19 (2017)
-* Participated in Startup Thailand and Digital Thailand         (2016)
-* First runner-up prize winner of Startup Hack (Phuket)       2016
+* Participated in Startup Thailand and Digital Thailand (2016)
+* First runner-up prize winner of Startup Hack at Phuket (2016)
 * Participated in ACM-ICPC (2016)
 * Member of Pupasoft Lab and Tech Startup Club (2016-2018)
-* Teaching Assistant for Intro to C language                (2015-2017)
+* Teaching Assistant for Intro to C language (2015-2017)
 
 ### Contact
 
