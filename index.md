@@ -1,8 +1,47 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mtreerungroj/mtreerungroj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a girl who enjoy coding and enthusiastic to gather new knowledge with positive thinking. I'm seeking a place where I can have more experience and education.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+
+* Information System in Computer Engineering, Prince of Songkla University, Hat Yai
+* Cumulative GPA: 3.56 (1st Class Honours)
+* TOEIC score: 600
+
+### Skills
+
+* Workable command of written and spoken English
+* Coding with JavaScript, Python, React, React-Native, HTML, CSS, Java, SQL, Git
+* Basic Data Analyst skills with Data Visualization and Manipulation techniques with Python programming
+* Basic Data Science skills with Statistical and Machine Learning techniques with Python programming
+* Experience with Android Studio, Visual Studio Code
+
+### Interests
+
+* Advance Data Science, Data Analysis, Data Engineering
+* Machine Learning, Deep Learning, AI, Big Data
+* Coding
+* Japanese 
+* Photography
+* Coloring Therapy
+
+### Experience / Internship
+* Internship at KCapstone program, KASIKORNBANK (2018)
+* Accomplished the Data Scientist track at DataCamp         (2018)
+* Participated in NSC20 (2018)
+* Internship at Digithun (2017)
+* Participated in NSC19 (2017)
+* Participated in Startup Thailand and Digital Thailand         (2016)
+* First runner-up prize winner of Startup Hack (Phuket)       2016
+* Participated in ACM-ICPC (2016)
+* Member of Pupasoft Lab and Tech Startup Club (2016-2018)
+* Teaching Assistant for Intro to C language                (2015-2017)
+
+### Contact
+
+* Mobile: (+66) 83-590-6069
+* Email: m.treerungroj@gmail.com
+* Address: Phunphin, Surat Thani, 84130
 
 ### Markdown
 
@@ -25,13 +64,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtreerungroj/mtreerungroj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
