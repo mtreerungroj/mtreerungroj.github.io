@@ -1,15 +1,22 @@
-## Welcome to GitHub Pages
+# Hello World
 
 I am a girl who enjoy coding and enthusiastic to gather new knowledge with positive thinking. I'm seeking a place where I can have more experience and education.
 
-### Education
+### Personal Details
+* Name: Manusaporn Treerungroj
+* Birth: August 1, 1996
+* Address: Phunphin, Surat Thani, 84130
+* Mobile: (+66) 83-590-6069
+* Email: m.treerungroj@gmail.com
+* Linkedin: [Manusaporn Treerungroj](https://www.linkedin.com/in/manusaporn-t-395729153)
+* Medium: [@mtreerungroj](https://medium.com/@m.treerungroj)
 
-* Information System in Computer Engineering, Prince of Songkla University, Hat Yai
+### Education
+* B.Eng. in Computer Engineering, Prince of Songkla University, Hat Yai Campus
 * Cumulative GPA: 3.56 (1st Class Honours)
 * TOEIC score: 600
 
 ### Skills
-
 * Workable command of written and spoken English
 * Coding with JavaScript, Python, React, React-Native, HTML, CSS, Java, SQL, Git
 * Basic Data Analyst skills with Data Visualization and Manipulation techniques with Python programming
@@ -17,10 +24,10 @@ I am a girl who enjoy coding and enthusiastic to gather new knowledge with posit
 * Experience with Android Studio, Visual Studio Code
 
 ### Interests / Hobbies
-
 * Advance Data Science, Data Analysis, Data Engineering
 * Machine Learning, Deep Learning, AI, Big Data
 * Coding
+* Reading books
 * Photography
 * Coloring Therapy
 * RoV
@@ -39,30 +46,3 @@ I am a girl who enjoy coding and enthusiastic to gather new knowledge with posit
 * Member of Pupasoft Lab and Tech Startup Club (2016-2018)
 * Teaching Assistant for Intro to C language (2015-2017)
 
-### Contact
-
-* Mobile: (+66) 83-590-6069
-* Email: m.treerungroj@gmail.com
-* Address: Phunphin, Surat Thani, 84130
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
