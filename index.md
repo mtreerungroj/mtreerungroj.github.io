@@ -1,9 +1,7 @@
 # Hello World
-
 My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new knowledge with positive thinking. I'm seeking a place where I can have more experience and education.
 
 ### Personal Details
-* Name: Manusaporn Treerungroj
 * Birth: August 1, 1996
 * Address: Phunphin, Surat Thani, 84130
 * Mobile: (+66) 83-590-6069
