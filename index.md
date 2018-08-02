@@ -33,7 +33,7 @@ My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new kno
 
 ### Experience / Internship
 * Internship at KCapstone program, KASIKORNBANK (2018)
-* Paticipated in Class & Workshop: What Business needs to know about Data Science by Coraline (2018)
+* Participated in Class & Workshop: What Business needs to know about Data Science by Coraline (2018)
 * Accomplished the Data Analyst and Data Scientist track at Datacamp, view my [profile](https://datacamp.com/profile/mtreerungroj) (2018)
 * Participated in NSC20 (2018)
 * Internship at Digithun (2017)
