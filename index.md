@@ -9,6 +9,7 @@ My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new kno
 * Email: m.treerungroj@gmail.com
 * Linkedin: [Manusaporn Treerungroj](https://www.linkedin.com/in/manusaporn-t-395729153)
 * Blog: [@mtreerungroj](https://medium.com/@m.treerungroj)
+* My portfolio on [Google Drive](https://docs.google.com/presentation/d/13rDS1p9heMJBZoYPO7HUYwxeUYVpQ8BhvgTa3HU1dXw/edit?usp=sharing)
 
 ### Education
 * B.Eng. in Computer Engineering, Prince of Songkla University, Hat Yai Campus
