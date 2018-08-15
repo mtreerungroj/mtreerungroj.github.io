@@ -7,7 +7,7 @@ My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new kno
 * Address: Phunphin, Surat Thani, 84130
 * Mobile: (+66) 83-590-6069
 * Email: m.treerungroj@gmail.com
-* Linkedin: [Manusaporn Treerungroj](https://www.linkedin.com/in/manusaporn-t-395729153)
+* Linkedin: [Manusaporn Treerungroj](https://www.linkedin.com/in/mtreerungroj)
 * Blog: [@mtreerungroj](https://medium.com/@m.treerungroj)
 * My portfolio on [Google Drive](https://docs.google.com/presentation/d/13rDS1p9heMJBZoYPO7HUYwxeUYVpQ8BhvgTa3HU1dXw/edit?usp=sharing)
 
