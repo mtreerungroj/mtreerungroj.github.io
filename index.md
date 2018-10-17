@@ -27,9 +27,9 @@ My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new kno
 * Advance Data Science, Data Analysis, Data Engineering
 * Machine Learning Algorithms, Natuaral Language Processing (NLP), Deep Learning, Big Data
 * Attending knowledge sharing events and data-science-related courses
+* Writing a knowledge sharing blog
 * Reading books
 * Photography
-* Coloring Therapy
 * RoV
 
 ### Experience
