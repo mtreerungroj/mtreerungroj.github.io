@@ -14,7 +14,7 @@ My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new kno
 ### Education
 * B.Eng. in Computer Engineering, Prince of Songkla University, Hat Yai Campus (2014-2018)
 * Cumulative GPA: 3.56 (1st Class Honours)
-* TOEIC score: 600
+* TOEIC score: 795
 
 ### Skills
 * Workable command of written and spoken English
@@ -30,10 +30,10 @@ My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new kno
 * Writing a knowledge sharing blog
 * Reading books
 * Photography
-* RoV
 
 ### Experience
 * Data Scientist at [Wongnai Media](https://www.wongnai.com/about) (2018)
+* Participated in central regional TechJam Thailand 2018 (Data Squad) (2018)
 * Internship at KCapstone program, KASIKORNBANK (2018)
 * Participated in Class & Workshop: What Business needs to know about Data Science by Coraline (2018)
 * Accomplished the Data Analyst and Data Scientist track at Datacamp, view my [profile](https://datacamp.com/profile/mtreerungroj) (2018)
@@ -48,6 +48,8 @@ My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new kno
 * Teaching Assistant for Intro to C Programming language (2015-2017)
 
 ### What I Have Been Reading
+* The Decision Book: Fifty models for strategic thinking by Mikael Krogerus and Roman Tschäppeler
+* Big Data Series II: Think like a Data Scientist by Asama Kulvanitchaiyanunt
 * Big Data Series I: Introduction to Big Data Project by Asama Kulvanitchaiyanunt
 * Principles by Ray Dalio
 * Naked Statistics: Stripping the Dread from the Data by Charles Wheelan
