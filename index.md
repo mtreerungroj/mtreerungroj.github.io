@@ -21,7 +21,7 @@ My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new kno
 * Coding with Python, JavaScript, SQL, R, React, React-Native, HTML, Git
 * Basic Data Analyst skills with Data Visualization and Manipulation techniques with Python programming
 * Basic Data Science skills with Statistical and Machine Learning techniques with Python programming
-* Experience with Jypyter Lab, Google Cloud Platform, Visual Studio Code, Android Studio
+* Experience with Jypyter Lab, Google Cloud Platform, Visual Studio Code
 
 ### Interests / Hobbies
 * Advance Data Science, Data Analysis, Data Engineering
@@ -32,7 +32,8 @@ My name is Ying. I am a girl who enjoy coding and enthusiastic to gather new kno
 * Photography
 
 ### Experience
-* Data Scientist at [Wongnai Media](https://www.wongnai.com/about) (2018)
+* Data Scientist at [Wongnai Media](https://www.wongnai.com/about) (2018-now)
+* Teaching Assistant for Intro to R Programming and Python Programming At [Datarockie](https://datarockie.com/) (2018)
 * Participated in central regional TechJam Thailand 2018 (Data Squad) (2018)
 * Internship at KCapstone program, KASIKORNBANK (2018)
 * Participated in Class & Workshop: What Business needs to know about Data Science by Coraline (2018)
