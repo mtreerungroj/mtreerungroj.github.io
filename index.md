@@ -7,7 +7,6 @@ I am a Data Scientist with passion to solve real-world business challenges with 
 * Email: m.treerungroj@gmail.com
 * Linkedin: [Manusaporn Treerungroj](https://www.linkedin.com/in/mtreerungroj)
 * Blog: [@mtreerungroj](https://medium.com/@m.treerungroj)
-* GitHub: [mtreerungroj](https://github.com/mtreerungroj)
 
 ### Education
 * Prince of Songkla University, Hat Yai Campus Thailand -- Bachelor of Engineering in Computer Engineering, (1st Class Honours) *2014-2018*
