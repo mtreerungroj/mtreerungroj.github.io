@@ -43,7 +43,7 @@ I am a Data Scientist with passion to solve real-world business challenges with 
 
 ### Interests / Hobbies
 * Co-Founder of [FoxFox](http://foxfox.io), Fun to use Learning Platform
-* [Noob Learning](https://web.facebook.com/nooblearning)'s Page Admin
+* [Noob Learning](https://web.facebook.com/nooblearning)'s Owner
 * Advance Data Science, Data Analysis, Data Engineering
 * Machine Learning Algorithms, Natuaral Language Processing (NLP), Deep Learning, Big Data
 * Attending knowledge sharing events and data-sciences-related courses
@@ -53,7 +53,8 @@ I am a Data Scientist with passion to solve real-world business challenges with 
 * Being Trainer for [Basic Python Batch 1, 2 and 3](https://web.facebook.com/events/510948563005126/) by [Noob Learning](https://web.facebook.com/nooblearning) *(2019)*
 * Participated and funded by [Strombreaker batch 2](https://www.disruptignite.com/accelerator/edtech-accelerator) *(2019)*
 * Participated in [Edabler Workshop](https://www.edabler.com/) *(2019)*
-* Being Teaching Assistant for Data Science for Everyone as Wongnai Media *(2019)*
+* Being Trainer for Basic Statistics at Wongnai Media *(2019)*
+* Being Teaching Assistant for Data Science for Everyone at Wongnai Media *(2019)*
 * Being Speaker on Data Sciences Project in Wongnai 's Townhall Q2 *(2019)*
 * Being Teaching Assistant for Intro to R Programming and Python Programming At [Datarockie](https://datarockie.com/) *(2018)*
 * Participated in central regional TechJam Thailand 2018 (Data Squad) *(2018)*
