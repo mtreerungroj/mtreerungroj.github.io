@@ -1,5 +1,5 @@
 # Hello World
-Ying is a Data Scientist with passion to solve real-world business challenges with Machine Learning. She's always enthusiastic to gather new knowledge with positive thinking, while running [FoxFox](http://foxfox.io), fun-to-use learning platform, which aims to use Machine Learning techniques for product improvement.
+Ying is a Data Scientist with a passion to solve real-world business challenges with Machine Learning. She's always enthusiastic to gather new knowledge with positive thinking while running [FoxFox](http://foxfox.io), fun-to-use learning platform, which aims to use Machine Learning techniques for product improvement.
 
 ### Personal Details
 * Name: Manusaporn Treerungroj
@@ -17,13 +17,13 @@ Ying is a Data Scientist with passion to solve real-world business challenges wi
 
 ### Skills
 * Coding with Python, SQL, Basic R, Basic Javascript
-* Experience with mySQL, Google Cloud Platform (BigQuery, Data Studio, Dataprep, Storage, Compute Engine)
+* Experience with MySQL, Google Cloud Platform (BigQuery, Data Studio, Dataprep, Storage, Compute Engine)
 
 ### Experience
 - Data Scientist at [Wongnai Media](https://www.wongnai.com/about) *(Oct 2018 - present)*
-  - Propose concrete problem, solutions and strategies to business challenges
-  - Undertake preprocessing of structured and unstructured data such as images, review, search and user activities
-  - Analyze large amounts of information to discover insights, trends and patterns
+  - Propose concrete problem, solutions, and strategies to business challenges
+  - Process structured and unstructured data such as images, review, search and user activities
+  - Analyze large amounts of information to discover insights, trends, and patterns
   - Build predictive models and Machine Learning algorithms
   - Make a dashboard for tracking business KPI
   - Present information using data visualization techniques
@@ -37,24 +37,24 @@ Ying is a Data Scientist with passion to solve real-world business challenges wi
 
 ### Project
 * **Wongnai Experiment About User Retention** *(Jan 2020 - present)*
-  - Do a end-to-end process of experiment to find any factors that might significantly increase user retention, using statistics and hypothesis testing techniques
-  - Work with business teams to find the insights about user retention
+  - Do an end-to-end process of experiments to find any factors that might significantly increase user retention, using statistics and hypothesis testing techniques
+  - Work with business teams to find insights about user retention
 * **Wongnai Restaurant's Deal Recommendation** *(Dec 2019)*
   - Applying For You Recommendation System to find restaurant's deals that user might like
 * **WongnaixLINE High Potential Restaurant for LINEMAN delivery** *(Oct-Nov 2019)*
-  - Targeting restaurants outside Bangkok that tend to have a good sales if they open a delivery
+  - Targeting restaurants outside Bangkok that tend to have good sales if they open a delivery
 * **Wognai Analytics** *(Sep 2019 - present)*
   - Researching in data analytics system and design the data tracking specification
   - Processing and visualizing data collected in the system
 * **Wongnai This Week For You** *(Aug-Oct 2019)*
-  - Dynamic Recommendation System built on the previous For You Recommendation System, personalized using user behavior and innteraction data
+  - Dynamic Recommendation System built on the previous For You Recommendation System, personalized using user behavior and interaction data
 * **Wongnai Dashboard for tracking search KPI** *(Apr-Jul 2019)*
   - Realtime dashboard showing the metrics for Wongnai's search system, built on Google Bigquery and Data Studio
 * **Wongnai Go or No-go Classification** *(Feb-Apr 2019)*
-  - Predicting whether user decided to go to the restaurant or not, based on user behavior and user interaction with the restaurant
-  - Studying about user's behavior when they were in incentive program
+  - Predicting whether the user decided to go to the restaurant or not, based on user behavior and user interaction with the restaurant
+  - Studying about user's behavior when they were in the incentive program
 * **Wongnai Text Menu Mapping** *(Dec 2018 - Jan 2019)*
-  - Researching about mapping the names of thai foods that has different writing or spelling but the same meaning
+  - Researching about mapping the names of Thai foods that has different writing or spelling but the same meaning
 * **Wongnai Image Classification** *(Oct-Dec 2018)*
   - Classifying type of photos uploaded by users using [Fastai](https://docs.fast.ai/index.html)
   
@@ -64,13 +64,13 @@ Ying is a Data Scientist with passion to solve real-world business challenges wi
 ### Interests / Hobbies
 * Co-Founder of [FoxFox](http://foxfox.io), Fun to use Learning Platform
 * [Noob Learning](https://web.facebook.com/nooblearning)'s Owner
-* Attending knowledge sharing events and data-sciences-related courses
-* Writing a knowledge sharing [blogs](https://medium.com/@m.treerungroj)
+* Attending knowledge-sharing events and data-sciences-related courses
+* Writing a knowledge-sharing [blogs](https://medium.com/@m.treerungroj)
 
 ### Trainer / Teaching Assistant / Speaker
 * Trainer, [Noob Learning](https://web.facebook.com/nooblearning) *(2019 - present)*
   - [Basic Python Batch 1, 2, 3, 4 and 5](https://web.facebook.com/events/510948563005126)
-  - [Learn SQL with BigQuery and Data Studio Bacth 1 and 2](https://www.facebook.com/events/2471295139773410/)
+  - [Learn SQL with BigQuery and Data Studio Batch 1 and 2](https://www.facebook.com/events/2471295139773410/)
   - [Data Wrangling with Dataprep & BigQuery Batch 1, 2 and 3](https://www.facebook.com/events/411779262805961)
   - [Prediction with BigQuery ML Batch 1 and 2](https://www.facebook.com/events/412439182993996) 
 * Speaker on Data Sciences in Wongnai at KMUTT *(2019)*
@@ -91,4 +91,4 @@ Ying is a Data Scientist with passion to solve real-world business challenges wi
 * Participated in Startup Thailand and Digital Thailand *(2016)*
 * First runner-up prize winner of Startup Hack at Phuket *(2016)*
 * Participated in ACM-ICPC (Programming contest) *(2016)*
-* Member of Pupasoft Lab and Tech Startup Club, Prince of Songkla Uninversity *(2016-2018)*
+* Member of Pupasoft Lab and Tech Startup Club, Prince of Songkla University *(2016-2018)*
