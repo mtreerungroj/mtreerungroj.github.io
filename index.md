@@ -1,5 +1,5 @@
 # Hello World
-I am a Data Scientist with passion to solve real-world business challenges with Machine Learning. I am always enthusiastic to gather new knowledge with positive thinking, while running [FoxFox](http://foxfox.io), fun-to-use learning platform, which aims to use Machine Learning techniques for product improvement.
+Ying is a Data Scientist with passion to solve real-world business challenges with Machine Learning. She's always enthusiastic to gather new knowledge with positive thinking, while running [FoxFox](http://foxfox.io), fun-to-use learning platform, which aims to use Machine Learning techniques for product improvement.
 
 ### Personal Details
 * Name: Manusaporn Treerungroj
@@ -10,7 +10,7 @@ I am a Data Scientist with passion to solve real-world business challenges with 
 * Blog: [@mtreerungroj](https://medium.com/@m.treerungroj)
 
 ### Education
-* Prince of Songkla University, Hat Yai Campus Thailand -- Bachelor of Engineering in Computer Engineering, (1st Class Honours) *2014-2018*
+* Prince of Songkla University, Hat Yai Campus Thailand - Bachelor of Engineering in Computer Engineering, (1st Class Honours) *(2014-2018)*
 
 ### Languages
 * TOEIC score: 795
@@ -50,11 +50,11 @@ I am a Data Scientist with passion to solve real-world business challenges with 
   - Dynamic Recommendation System built on the previous For You Recommendation System, personalized using user behavior and innteraction data
 * **Wongnai Dashboard for tracking search KPI** *(Apr-Jul 2019)*
   - Realtime dashboard showing the metrics for Wongnai's search system, built on Google Bigquery and Data Studio
-* **Wongnai Go/ No-go Classification** *(Feb-Apr 2019)*
+* **Wongnai Go or No-go Classification** *(Feb-Apr 2019)*
   - Predicting whether user decided to go to the restaurant or not, based on user behavior and user interaction with the restaurant
   - Studying about user's behavior when they were in incentive program
 * **Wongnai Text Menu Mapping** *(Dec 2018 - Jan 2019)*
-  - Researching about mapping the names of thai foods that has different writing/spelling but the same meaning
+  - Researching about mapping the names of thai foods that has different writing or spelling but the same meaning
 * **Wongnai Image Classification** *(Oct-Dec 2018)*
   - Classifying type of photos uploaded by users using [Fastai](https://docs.fast.ai/index.html)
   
