@@ -8,7 +8,8 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
 * Blog: [@mtreerungroj](https://medium.com/@m.treerungroj)
 
 ### Education
-* Prince of Songkla University, Hat Yai Campus Thailand - Bachelor of Engineering in Computer Engineering, (1st Class Honours) *(2014-2018)*
+* Prince of Songkla University, Hat Yai Campus Thailand *(2014-2018)*
+  - Bachelor of Engineering in Computer Engineering, (1st Class Honours)
 
 ### Languages
 * TOEIC score: 795
