@@ -25,28 +25,39 @@ I am a Data Scientist with passion to solve real-world business challenges with 
   - Undertake preprocessing of structured and unstructured data such as images, review, search and user activities
   - Analyze large amounts of information to discover insights, trends and patterns
   - Build predictive models and Machine Learning algorithms
-  - Make a dashboard for tracking search KPI
+  - Make a dashboard for tracking business KPI
   - Present information using data visualization techniques
+  - Recruit Data Scientist interns into the company
   - Collaborate with engineering and product development teams
-- Internship at [KCapstone program](https://web.facebook.com/kcapstone), KASIKORNBANK *(Jun-July 2018)*
+- Internship at [KCapstone program](https://web.facebook.com/kcapstone), KASIKORNBANK *(Jun-Jul 2018)*
   - Create Cozi+ application prototypes, an application to collect membership cards, on mobile using React-Native for gathering feedback from users and pitching
   - Learn Design Thinking techniques and use in practice
-- Frontend Developer (intern) at [Digithun](https://github.com/digithun/ddt) *(Jun-July 2017)*
+- Frontend Developer (intern) at [Digithun](https://github.com/digithun/ddt) *(Jun-Jul 2017)*
   - Building [leaderboard and quiz management system](https://quizchatbot-ce222.firebaseapp.com/) for [Quiz Chatbot](https://facebook.com/QuizChatbot-122419575009686) using ReactJS and Firebase Realtime Database.
 
 ### Project
-* **Wongnai Image Classification**
-  - Classifying type of photos uploaded by users using [Fastai](https://docs.fast.ai/index.html)
-* **Wongnai Text Menu Mapping**
-  - Researching about mapping the names of thai foods that has different writing/spelling but the same meaning
-* **Wongnai Go/ No-go Classification**
+* **Wongnai Experiment About User Retention** *(Jan 2020 - present)*
+  - Do a end-to-end process of experiment to find any factors that might significantly increase user retention, using statistics and hypothesis testing techniques
+  - Work with business teams to find the insights about user retention
+* **Wongnai Restaurant's Deal Recommendation** *(Dec 2019)*
+  - Applying For You Recommendation System to find restaurant's deals that user might like
+* **WongnaixLINE High Potential Restaurant for LINEMAN delivery** *(Oct-Nov 2019)*
+  - Targeting restaurants outside Bangkok that tend to have a good sales if they open a delivery
+* **Wognai Analytics** *(Sep 2019 - present)*
+  - Researching in data analytics system and design the data tracking specification
+  - Processing and visualizing data collected in the system
+* **Wongnai This Week For You** *(Aug-Oct 2019)*
+  - Dynamic Recommendation System built on the previous For You Recommendation System, personalized using user behavior and innteraction data
+* **Wongnai Dashboard for tracking search KPI** *(Apr-Jul 2019)*
+  - Realtime dashboard showing the metrics for Wongnai's search system, built on Google Bigquery and Data Studio
+* **Wongnai Go/ No-go Classification** *(Feb-Apr 2019)*
   - Predicting whether user decided to go to the restaurant or not, based on user behavior and user interaction with the restaurant
   - Studying about user's behavior when they were in incentive program
-* **Wongnai Dashboard for tracking search KPI**
-  - Realtime dashboard showing the metrics for Wongnai's search system, built on Google Bigquery and Data Studio
-* **WongnaixLINE High Potential Restaurant for LINEMAN delivery**
-  - Targeting restaurants outside Bangkok that tend to have a good sales if they open a delivery
-
+* **Wongnai Text Menu Mapping** *(Dec 2018 - Jan 2019)*
+  - Researching about mapping the names of thai foods that has different writing/spelling but the same meaning
+* **Wongnai Image Classification** *(Oct-Dec 2018)*
+  - Classifying type of photos uploaded by users using [Fastai](https://docs.fast.ai/index.html)
+  
 ### Certificates
 * Accomplished the Data Analyst and Data Scientist track at Datacamp, view my [profile](https://datacamp.com/profile/mtreerungroj)
 
