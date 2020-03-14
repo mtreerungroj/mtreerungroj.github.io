@@ -42,14 +42,14 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
   - Regression model predicting the number of MRT user per day that selected features, prepared data and trained on BigQueryML
 * **Wongnai Restaurant's Deal Recommendation** *(Dec 2019)*
   - Applying For You Recommendation System to find restaurant's deals that user might like
-* **WongnaixLINE High Potential Restaurant for LINEMAN delivery** *(Oct-Nov 2019)*
+* **WongnaixLINE High Potential Restaurant for LINEMAN Delivery** *(Oct-Nov 2019)*
   - Targeting restaurants outside Bangkok that tend to have good sales if they open a delivery
 * **Wognai Analytics** *(Sep 2019 - present)*
   - Researching in data analytics system and design the data tracking specification
   - Processing and visualizing data collected in the system
 * **Wongnai This Week For You** *(Aug-Oct 2019)*
   - Dynamic Recommendation System built on the previous For You Recommendation System, personalized using user behavior and interaction data
-* **Wongnai Dashboard for tracking search KPI** *(Apr-Jul 2019)*
+* **Wongnai Dashboard for Tracking Search KPI** *(Apr-Jul 2019)*
   - Realtime dashboard showing the metrics for Wongnai's search system, built on Google Bigquery and Data Studio
 * **Wongnai Go or No-go Classification** *(Feb-Apr 2019)*
   - Predicting whether the user decided to go to the restaurant or not, based on user behavior and user interaction with the restaurant
