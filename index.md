@@ -25,7 +25,7 @@ I am a Data Scientist with passion to solve real-world business challenges with 
   - Undertake preprocessing of structured and unstructured data such as images, review, search and user activities
   - Analyze large amounts of information to discover insights, trends and patterns
   - Build predictive models and Machine Learning algorithms
-  - Make a dashboard to track search KPI
+  - Make a dashboard for tracking search KPI
   - Present information using data visualization techniques
   - Collaborate with engineering and product development teams
 - Internship at [KCapstone program](https://web.facebook.com/kcapstone), KASIKORNBANK *(Jun-July 2018)*
@@ -35,11 +35,17 @@ I am a Data Scientist with passion to solve real-world business challenges with 
   - Building [leaderboard and quiz management system](https://quizchatbot-ce222.firebaseapp.com/) for [Quiz Chatbot](https://facebook.com/QuizChatbot-122419575009686) using ReactJS and Firebase Realtime Database.
 
 ### Project
-* Wongnai Image Classification
-  - Classifying type of photos uploaded by users using [Fastai](https://docs.fast.ai/index.html).
-* Wongnai Text Menu Mapping
-  - Researching about mapping the names of thai foods that has different writing/spelling but the same meaning.
-* 
+* **Wongnai Image Classification**
+  - Classifying type of photos uploaded by users using [Fastai](https://docs.fast.ai/index.html)
+* **Wongnai Text Menu Mapping**
+  - Researching about mapping the names of thai foods that has different writing/spelling but the same meaning
+* **Wongnai Go/ No-go Classification**
+  - Predicting whether user decided to go to the restaurant or not, based on user behavior and user interaction with the restaurant
+  - Studying about user's behavior when they were in incentive program
+* **Wongnai Dashboard for tracking search KPI**
+  - Realtime dashboard showing the metrics for Wongnai's search system, built on Google Bigquery and Data Studio
+* **WongnaixLINE High Potential Restaurant for LINEMAN delivery**
+  - Targeting restaurants outside Bangkok that tend to have a good sales if they open a delivery
 
 ### Certificates
 * Accomplished the Data Analyst and Data Scientist track at Datacamp, view my [profile](https://datacamp.com/profile/mtreerungroj)
