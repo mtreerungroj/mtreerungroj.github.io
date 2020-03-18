@@ -49,6 +49,8 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
   - Processing and visualizing data collected in the system
 * **Wongnai This Week For You** *(Aug-Oct 2019)*
   - Dynamic Recommendation System built on the previous For You Recommendation System, personalized using user behavior and interaction data
+* **User Profile**
+* **Trending Restaurant**
 * **Wongnai Dashboard for Tracking Search KPI** *(Apr-Jul 2019)*
   - Realtime dashboard showing the metrics for Wongnai's search system, built on Google Bigquery and Data Studio
 * **Wongnai Go or No-go Classification** *(Feb-Apr 2019)*
