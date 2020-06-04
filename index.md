@@ -35,7 +35,10 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
   - Building [leaderboard and quiz management system](https://quizchatbot-ce222.firebaseapp.com/) for [Quiz Chatbot](https://facebook.com/QuizChatbot-122419575009686) using ReactJS and Firebase Realtime Database.
 
 ### Project
-* **Wongnai Experiment About User Retention** *(Jan 2020 - present)*
+* **Wongnai Image to Vector Representation** (June 2020 - present)
+* **Wongnai Listing Ad Recommendation** (Mar - Apr 2020)
+* **Wongnai GP Profit Forcasting** (Mar - Apr 2020)
+* **Wongnai Experiment About User Retention** *(Jan 2020 - Feb 2020)*
   - Do an end-to-end process of experiments to find any factors that might significantly increase user retention, using statistics and hypothesis testing techniques
   - Work with business teams to find insights about user retention
 * **BEM Number of MRT Users per Day Prediction (MVP)** *(Feb 2020)*
@@ -75,7 +78,11 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
   - [Basic Python Batch 1, 2, 3, 4 and 5](https://web.facebook.com/events/510948563005126)
   - [Learn SQL with BigQuery and Data Studio Batch 1 and 2](https://www.facebook.com/events/2471295139773410/)
   - [Data Wrangling with Dataprep & BigQuery Batch 1, 2 and 3](https://www.facebook.com/events/411779262805961)
-  - [Prediction with BigQuery ML Batch 1 and 2](https://www.facebook.com/events/412439182993996) 
+  - [Prediction with BigQuery ML Batch 1 and 2](https://www.facebook.com/events/412439182993996)
+  - [KBTGxNL - Hello COVID19 Data เริ่มมเรียนรู้ Data Sciences จากข้อมูลไวรัส](https://www.facebook.com/photo?fbid=3027401860615124&set=a.1059136184108378)
+  - [Play with Machine learning by Google Sheets & BigQuery & Data Studio](https://www.facebook.com/events/596787261249486)
+* Speaker on Data Sciences in Wongnai at ECON, CU *(2020)*
+* Guest at [หมีเรื่องมาเล่า](https://www.facebook.com/2bearstalk/) [ep.34 สิ่งที่ได้เรียนรู้จากการเป็น Data Scientist มา 1 ปี](https://open.spotify.com/episode/6cXjpU9HFnoSFBkfXGlSHx?si=vJSBAbvlRjOFMeCIf2i4bA) (2020)
 * Speaker on Data Sciences in Wongnai at KMUTT *(2019)*
 * Teaching Assistant for Data Science for Everyone at [Wongnai Media](https://www.wongnai.com/about) *(2019)*
 * Trainer for Basic Statistics at [Wongnai Media](https://www.wongnai.com/about) *(2019)*
