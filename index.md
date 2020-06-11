@@ -15,8 +15,8 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
 * TOEIC score: 795
 
 ### Skills
-* Coding with Python, SQL, Basic R, Basic Javascript
-* Experience with Jupyter Notebook/Lab, MySQL, Google Cloud Platform (BigQuery, BigQueryML, Data Studio, Dataprep, Cloud Storage, Compute Engine)
+* Coding with Python, SQL, Basic PySpark, Basic R, Basic Javascript
+* Experience with Jupyter Notebook/Lab, MySQL, Google Cloud Platform (BigQuery, BigQueryML, Data Studio, Dataprep, Cloud Storage, Compute Engine), Amazon Web Services (S3, EMR)
 
 ### Experience
 - **Data Scientist** at [Wongnai Media](https://www.wongnai.com/about) *(Oct 2018 - present)*
@@ -37,7 +37,9 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
 ### Project
 * **Wongnai Image to Vector Representation** (June 2020 - present)
 * **Wongnai Listing Ad Recommendation** (Mar - Apr 2020)
+  - Applying For You Recommendation System to find a ad restaurant that user might like
 * **Wongnai GP Profit Forcasting** (Mar - Apr 2020)
+  - Predicting weekly estimated delivery sales for non-GP restaurant (delivery open but doesn't join GP), using multi-output regression
 * **Wongnai Experiment About User Retention** *(Jan 2020 - Feb 2020)*
   - Do an end-to-end process of experiments to find any factors that might significantly increase user retention, using statistics and hypothesis testing techniques
   - Work with business teams to find insights about user retention
@@ -46,21 +48,23 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
 * **Wongnai Restaurant's Deal Recommendation** *(Dec 2019)*
   - Applying For You Recommendation System to find restaurant's deals that user might like
 * **WongnaixLINE High Potential Restaurant for LINEMAN Delivery** *(Oct-Nov 2019)*
-  - Targeting restaurants outside Bangkok that tend to have good sales if they open a delivery
-* **Wognai Analytics** *(Sep 2019 - present)*
+  - Prepare data for targeting restaurants outside Bangkok that tend to have a high sales if they open a delivery
+* **Wognai Analytics** *(Sep 2019 - Jan 2020)*
   - Researching in data analytics system and design the data tracking specification
   - Processing and visualizing data collected in the system
 * **Wongnai This Week For You** *(Aug-Oct 2019)*
   - Dynamic Recommendation System built on the previous For You Recommendation System, personalized using user behavior and interaction data
-* **Wongnai User Profile**
-* **Wongnai Trending Restaurant**
-* **Wongnai Dashboard for Tracking Search KPI** *(Apr-Jul 2019)*
-  - Realtime dashboard showing the metrics for Wongnai's search system, built on Google Bigquery and Data Studio
+* **Wongnai User Profile** *(Jul 2019)*
+  - Researching about charateristics of Wongnai's users in many dimension. based on user behavior and user interaction with the restaurant
+* **Wongnai Trending Restaurant** *(Jun-Jul 2019)*
+  - Researching about trending restaurant using time series analysis with weighted moving average
+* **Wongnai Dashboard for Tracking Search KPI** *(Apr-Jun 2019)*
+  - Realtime dashboard showing the metrics/KPI for Wongnai's search system, built on Google Bigquery and Data Studio
 * **Wongnai Go or No-go Classification** *(Feb-Apr 2019)*
-  - Predicting whether the user decided to go to the restaurant or not, based on user behavior and user interaction with the restaurant
+  - Predicting whether the user decided to go to the restaurant or not, based on user behavior and user interaction with the restaurant, using Random Forest Regression
   - Studying about user's behavior when they were in the incentive program
 * **Wongnai Text Menu Mapping** *(Dec 2018 - Jan 2019)*
-  - Researching about mapping the names of Thai foods that has different writing or spelling but the same meaning
+  - Researching about mapping the names of Thai foods that has different writing or spelling but the same meaning, using LDA topic modeling
 * **Wongnai Image Classification** *(Oct-Dec 2018)*
   - Classifying type of photos uploaded by users using [Fastai](https://docs.fast.ai/index.html)
   
