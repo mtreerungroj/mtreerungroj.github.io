@@ -16,10 +16,10 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
 
 ### Skills
 * Coding with Python, SQL, Basic PySpark, Basic R, Basic Javascript
-* Experience with Jupyter Notebook/Lab, MySQL, Google Cloud Platform (BigQuery, BigQueryML, Data Studio, Dataprep, Cloud Storage, Compute Engine), Amazon Web Services (S3, EMR)
+* Experience with Jupyter Notebook/Lab, MySQL, Google Cloud Platform (BigQuery, BigQuery ML, Data Studio, Dataprep, Cloud Storage, Compute Engine), Amazon Web Services (S3, EMR)
 
 ### Experience
-- **Data Scientist** at [Wongnai Media](https://www.wongnai.com/about) *(Oct 2018 - present)*
+- **Data Scientist** at [Wongnai Media](https://www.wongnai.com/about) *(Oct 2018 - July 2020)*
   - Propose concrete problem, solutions, and strategies to business challenges
   - Process structured and unstructured data such as images, review, search and user activities
   - Analyze large amounts of information to discover insights, trends, and patterns
@@ -27,7 +27,7 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
   - Make a dashboard for tracking business KPI
   - Present information using data visualization techniques
   - Recruit Data Scientist both full-time and intern into the company
-  - Collaborate with engineering and product development teams
+  - Coaching data scientist interns
 - **Intern** at [KCapstone program](https://web.facebook.com/kcapstone), KASIKORNBANK *(Jun-Jul 2018)*
   - Create Cozi+ application prototypes, an application to collect membership cards, on mobile using React-Native for gathering feedback from users and pitching
   - Learn Design Thinking techniques and use in practice
@@ -35,7 +35,7 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
   - Building [leaderboard and quiz management system](https://quizchatbot-ce222.firebaseapp.com/) for [Quiz Chatbot](https://facebook.com/QuizChatbot-122419575009686) using ReactJS and Firebase Realtime Database.
 
 ### Project
-* **Wongnai Image to Vector Representation** (June 2020 - present)
+* **Wongnai Image to Vector Representation** (June 2020 - July 2020)
 * **Wongnai Listing Ad Recommendation** (Mar - Apr 2020)
   - Applying For You Recommendation System to find a ad restaurant that user might like
 * **Wongnai GP Profit Forcasting** (Mar - Apr 2020)
@@ -85,6 +85,7 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
   - [Prediction with BigQuery ML Batch 1 and 2](https://www.facebook.com/events/412439182993996)
   - [KBTGxNL - Hello COVID19 Data เริ่มมเรียนรู้ Data Sciences จากข้อมูลไวรัส 5 คอร์ส](https://www.facebook.com/photo?fbid=3027401860615124&set=a.1059136184108378)
   - [NLxGoogleaholic - Play with Machine learning by Google Sheets & BigQuery & Data Studio](https://www.facebook.com/events/596787261249486)
+* Co-teacher for introduction to data sciences program at [SIAMTECH](https://www.siamtech.ac.th) (Aug-Sep 2020)
 * Speaker on Data Sciences in Wongnai at ECON, CU *(2020)*
 * Guest at [หมีเรื่องมาเล่า](https://www.facebook.com/2bearstalk/) [ep.34 สิ่งที่ได้เรียนรู้จากการเป็น Data Scientist มา 1 ปี](https://open.spotify.com/episode/6cXjpU9HFnoSFBkfXGlSHx?si=vJSBAbvlRjOFMeCIf2i4bA) (2020)
 * Speaker on Data Sciences in Wongnai at KMUTT *(2019)*
