@@ -69,6 +69,7 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
   - Classifying type of photos uploaded by users using [Fastai](https://docs.fast.ai/index.html)
   
 ### Certificates
+* The Fundamentals of Digital Marketing, Google Digital Garage (2021)
 * TensorFlow Developer Certificated by Google, See [credential](https://www.credential.net/7eb322a4-d988-4bde-a21d-b44eecc8b362) (Oct 2020)
 * Accomplished the Data Analyst and Data Scientist track at Datacamp, view my [profile](https://datacamp.com/profile/mtreerungroj) (2018)
 
@@ -86,6 +87,8 @@ Ying is a Data Scientist with a passion to solve real-world business challenges 
   - [Prediction with BigQuery ML Batch 1 and 2](https://www.facebook.com/events/412439182993996)
   - [KBTGxNL - Hello COVID19 Data เริ่มมเรียนรู้ Data Sciences จากข้อมูลไวรัส 5 คอร์ส](https://www.facebook.com/photo?fbid=3027401860615124&set=a.1059136184108378)
   - [NLxGoogleaholic - Play with Machine learning by Google Sheets & BigQuery & Data Studio](https://www.facebook.com/events/596787261249486)
+* Speaker on การสร้าง Community ทำไปทำไมและต้องทำอย่างไรให้ดี at KBTG Clubhouse (2021)
+* Speaker on Low-code ML with BigQuery for noob at Data Talk Chill 3 (2021)
 * Speaker on Getting started with BigQuery ML at GDG Cloud Bangkok devfest 2020, [blog](https://medium.com/nooblearning/getting-started-with-bigquery-ml-aa2f6069a88d) (Nov 2020)
 * Co-teacher for Machine Learning for Everyone program at [SIAMTECH](https://www.siamtech.ac.th) (Aug-Sep 2020)
 * Speaker on Data Sciences in Wongnai at ECON, CU *(2020)*
